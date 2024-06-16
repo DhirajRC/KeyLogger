@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo2_usage</string>
+    <string name="accessibility_service_description">Accessibility service to track typed text</string>
+
+</resources>
